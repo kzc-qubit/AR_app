@@ -1,4 +1,6 @@
-# AR_app
+PLZ USE YOUR FAVOURITE TEXT EDITOR TO VIEW THE README.md
+
+
 An AR app that allows the inspector to visualize the fuselage and the inspection results in real-time, 
 superimposing the 3D model onto the actual fuselage.
 
