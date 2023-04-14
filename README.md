@@ -1,4 +1,5 @@
 PLZ USE YOUR FAVOURITE TEXT EDITOR TO VIEW THE README.md
+Or Click "display the source bolb"
 
 ###################################### description ######################################
 
