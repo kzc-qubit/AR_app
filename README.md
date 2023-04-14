@@ -17,7 +17,7 @@ real-time, superimposing the 3D model onto the actual fuselage.
 
 5. Then you can Edit the project. 
 
-REMEMBER to talked to Ray when you finish you part, and let him to integrated all together.
+REMEMBER to talked to Ray when you finish you part, and let him to integrate all together.
 Make sure to mark out the part you modified like below, including your intial and date: 
 //************************ Modified RC 04/12/23 (Start) ************************
 Struct sample: View{
